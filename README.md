@@ -1,5 +1,5 @@
 # SpaceRace
-Data Analysis for the Space Race since the beginning
+Ongoing Data Analysis for the Space Race since the beginning
 
 The data include the country of launching, the date, the success status, the company/organization, the price of the mission, the vessel model and the rocket status.
 
